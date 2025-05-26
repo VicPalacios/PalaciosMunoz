@@ -1,0 +1,146 @@
+body {
+  background-color: azul;
+  color: negro;
+  font-family: Georgia, serif;
+  text-align: center;
+}
+.contenedor {
+  display: block;            
+  padding: 20px; 
+  max-width: 900px;          
+  margin: 0 auto;                                             
+}
+
+h1 {
+  font-size: 36px;
+  color: negro;
+  text-align: center;
+}
+h2, h3{
+  font-size: 24px;
+  color: negro;
+  text-aligne: center;
+}
+p {
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #444;
+}
+
+a {
+  text-align: center;
+  display: inline-block;
+      margin: 15px;
+      padding: 10px 20px;
+      background-color: #decba4;
+      color: black;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+.imagen-arriba {
+ float: left;
+  margin: 0 20px 10px 0;
+  width: 250px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+.imagen-abajo {
+    display: block;
+  width: 300px;
+  height: auto;
+  margin: 30px auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-aligne: center;
+}
+
+th, td {
+  padding: 12px 16px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+table, th, td {
+  border: 2px solid #decba4
+}
+.imagen-calculadora {
+  width: 300px;
+  height: 200px;
+}
+.imagen-excel {
+  width: 300px;
+  height: 200px;
+}
+.imagen-instagram {
+float: center;
+  margin: 0 20px 10px 0;
+  width: 250px;
+  height: auto;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+.imagen-diagrama {
+  float: center;
+  width: 250px;
+  height:200;
+}
+.diagrama-2 {
+  float: center;
+  widht: 250px;
+  height: 200px;
+}
+.imagen-adobe {
+  float: center;
+  widht: 250px;
+  height: 200px;
+}
+.pagina-web {
+  float: center;
+  widht: 250px;
+  height: 200px;
+}
+.App-Inventor {
+  float: center-end;
+  width: 250px;
+  height: 200px;
+}
+.documentos-digitales {
+  float: center-end;
+  width: 250px;
+  height: 200px;
+}
+.Biografia-ejemplo {
+  float: center-end;
+  width: 250px;
+  height: 200px;
+}
+.maquinas-virtuales {
+  float: center-end;
+  widht: 250px;
+  height: 200px;
+}
+.mantenimiento {
+  float: left;
+  width: 250px;
+  height: 200px;
+}
+.sistemasinformacion {
+float: left;
+  margin: 0 20px 10px 0;
+  width: 250px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+.PSint {
+  float: right;
+  width: 250px;
+  height: 200px;
+}
